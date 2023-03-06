@@ -37,6 +37,10 @@ El análisis exploratorio de datos se realizó utilizando las siguientes librer�
 Las conclusiones del análisis exploratorio de datos se encuentran en el archivo `AnalisisExploratorio_prueba.ipynb`.
 Es importante aclarar que **así como los datos son ficticios, las conclusiones también lo son**.
 
+## Resumen ejecutivo
+
+Para ver el resumen ejecutivo en PowerBi, haga [clic aquí](https://app.powerbi.com/links/YEcJ5Ykcy5?ctid=ae65e0d6-0615-40e2-9ade-83513ba08d50&pbi_source=linkShare)
+
 ## Autoría
 
 Este proyecto fue creado por **Miguel Sosa**.
